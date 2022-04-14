@@ -1,0 +1,78 @@
+{
+	"folders": [
+		{
+			"name": "Curso Primeiros Passos com freeRTOS [Cleisson]",
+			"path": "."
+		},
+		{
+			"name": "Ex01 - Criando Task",
+			"path": "Ex01 - Criando Task"
+		},
+		{
+			"name": "Ex01 - Criando Task v2",
+			"path": "Ex01 - Criando Task v2"
+		},
+		{
+			"name": "Ex02 - Deletando Task",
+			"path": "Ex02 - Deletando Task"
+		},
+		{
+			"name": "Ex03 - Suspendendo Task",
+			"path": "Ex03 - Suspendendo Task"
+		},
+		{
+			"name": "Ex04 - Definindo um Nucleo",
+			"path": "Ex04 - Definindo um Nucleo"
+		},
+		{
+			"name": "Ex05 - Verificando o Uso da Stack",
+			"path": "Ex05 - Verificando o Uso da Stack"
+		},
+		{
+			"name": "Ex06 - Queues",
+			"path": "Ex06 - Queues"
+		},
+		{
+			"path": "Ex07 - SemaphoreBinary"
+		},
+		{
+			"path": "Ex08 - SemaphoreBinaryInterrupt"
+		},
+		{
+			"path": "Ex09 - SemaphoreCount"
+		},
+		{
+			"name": "Ex10 - SemaphoreMutex",
+			"path": "Ex10 - SemaphoreMutex"
+		},
+		{
+			"name": "Ex11 - SoftwareTimer",
+			"path": "Ex11 - SoftwareTimer"
+		},
+		{
+			"name": "Ex12 - EventGroup",
+			"path": "Ex12 - EventGroup"
+		},
+		{
+			"name": "Ex13 - TaskNotification",
+			"path": "Ex13 - TaskNotification"
+		},
+		{
+			"name": "Ex14 - ProjectMQTT",
+			"path": "Ex14 - ProjectMQTT"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.esp32dev": "kconfig",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"*.tcc": "cpp",
+			"algorithm": "cpp",
+			"_mqtt.h": "c",
+			"mqtt_client.h": "c",
+			"mqtt_config.h": "c",
+			"esp_err.h": "c"
+		}
+	}
+}
