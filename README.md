@@ -1,4 +1,4 @@
-# Primeiros-Passos-com-FreeRTOS-e-ESP32 (Fabio Souza)
+# Primeiros Passos com FreeRTOS e ESP32 (Fabio Souza)
 
 Programas desenvolvidos durante o curso do Fabio Souza.
 
